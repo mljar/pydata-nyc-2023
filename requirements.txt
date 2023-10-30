@@ -1,0 +1,7 @@
+mercury
+pandas
+numpy
+matplotlib
+altair
+vega_datasets
+plotly
